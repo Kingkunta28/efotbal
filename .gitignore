@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+backend/.venv/
+
+# Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+/staticfiles
+/media
+
+# Node
+node_modules/
+/dist/
+/.vite
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
