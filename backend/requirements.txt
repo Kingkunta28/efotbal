@@ -1,3 +1,5 @@
+# Backend dependencies for efotbal Django application
+# Use the backend virtual environment before installing these packages.
 Django>=6.1,<7.0
 djangorestframework>=3.18.0
 djangorestframework-simplejwt>=5.5.1
